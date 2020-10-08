@@ -1,0 +1,26 @@
+{
+  "name": "aws-ddb-client-extra",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunyenHuang/aws-ddb-client-extra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunyenHuang/aws-ddb-client-extra/issues"
+  },
+  "homepage": "https://github.com/chunyenHuang/aws-ddb-client-extra#readme",
+  "dependencies": {
+    "aws-sdk": "^2.770.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}

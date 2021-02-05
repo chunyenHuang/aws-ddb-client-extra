@@ -16,10 +16,9 @@
     "url": "https://github.com/chunyenHuang/aws-ddb-client-extra/issues"
   },
   "homepage": "https://github.com/chunyenHuang/aws-ddb-client-extra#readme",
-  "dependencies": {
-    "aws-sdk": "^2.770.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "aws-sdk": "^2.770.0",
     "eslint": "^7.2.0",
     "eslint-config-google": "^0.14.0"
   }
